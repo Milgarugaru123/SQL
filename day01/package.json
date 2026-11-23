@@ -1,0 +1,18 @@
+{
+  "name": "day01",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node ./code/hello.js",
+    "coffee": "node ./code/coffee.js",
+    "lunch": "node ./code/lunch.js",
+    "first": "node ./code/first.js",
+    "donchicken": "node ./code/donchicken.js",
+    "coin": "node ./code/coin.js"
+  }
+}
